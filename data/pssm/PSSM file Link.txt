@@ -1,1 +1,1 @@
-The PSSM files are too large are too large and are being uploaded to Google Cloud Drive.
+The PSSM files are too large and are being uploaded to Google Cloud Drive.
