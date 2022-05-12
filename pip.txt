@@ -1,0 +1,24 @@
+biopython==1.79
+certifi==2021.10.8
+future==0.18.2
+importlib-metadata==4.10.0
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.21.4
+pandas @ file:///tmp/build/80754af9/pandas_1596825853503/work
+Pillow==8.4.0
+prettytable==2.5.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376882706/work
+scipy @ file:///tmp/build/80754af9/scipy_1616700973326/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+torch==1.6.0+cu101
+torchvision==0.7.0+cu101
+tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
+typing_extensions==4.0.1
+wcwidth==0.2.5
+zipp==3.6.0
