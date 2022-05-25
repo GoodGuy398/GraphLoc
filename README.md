@@ -1,8 +1,6 @@
 # GraphLoc
 
-A Protein Subcellular Localization Predictor developed by Graph Convolutional Network and Predicted Contact Map
 
-The source code for our paper Protein Subcellular Localization Prediction Model Based on Graph Convolutional Network
 1. Dependencies
 
     The code has been tested under Python 3.6，related packages are in env.yaml and pip.txt
