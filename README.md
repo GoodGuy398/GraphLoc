@@ -11,14 +11,14 @@ The source code for our paper Protein Subcellular Localization Prediction Model 
 
     Step 1: Download all sequence features
     
-    Please go to the path ./data/pssm/pssm file link.txt and ./data/graph/graph file link.txt and download pssm files.zip and graph files.zip
+    Please go to the path ./data/pssm/pssm file link.txt and ./data/graph/graph file link.txt and download pssm.tar.gz and graph.tar.gz
 
-    Step 2: Decompress all .zip files
+    Step 2: Decompress all .tar.gz files
     
-    Please unzip 2 zip files and put them into the corresponding paths.
+    Please decompress 2 tar.gz files and put them into the corresponding paths.
     
-        ./data/graph/graph files.zip -> ./data/graph/
-        ./data/pssm/pssm files.zip -> ./data/pssm/
+        ./data/graph/graph.tar.gz -> ./data/graph/
+        ./data/pssm/pssm.tar.gz -> ./data/pssm/
 
     Step 3: Run the training code
     
